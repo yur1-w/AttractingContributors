@@ -15,16 +15,12 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+# My Project(Music-collection)
+Recentlly I come to practice guiter, so please tell me your favorite musics.
 
-# List of Anime.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
-6. World Trigger
-7. BLEACH
-8. Serial Experiments Lain
-9. PoketMon
+# List of Music
+1. Tentaikansoku
+2. Watashi wa saikyo
+3. Sugar song to bitter step
+4. Semetemo no dance
+5. Kaiju no hanauta
