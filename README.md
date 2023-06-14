@@ -27,3 +27,5 @@ Recentlly I come to practice guiter, so please tell me your favorite musics.
 6. idol
 7. Blue Moon
 8. something w/o sunrise
+9. kill em with kindness
+
