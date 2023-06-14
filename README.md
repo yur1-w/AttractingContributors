@@ -30,7 +30,7 @@ Goal: I like sports. My favorite sports are baseball. I will be appreciate if yo
 4. Running
 5. Tennis
 6. Baseball
-7.
+7. Soccer
 8.
 9.
 10.
