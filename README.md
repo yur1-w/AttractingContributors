@@ -25,3 +25,4 @@ Recentlly I come to practice guiter, so please tell me your favorite musics.
 4. Semetemo no dance
 5. Kaiju no hanauta
 6. idol
+7. Blue Moon
