@@ -8,7 +8,7 @@ Thank you for coming.
 Please write your favorite animation character in the list below.
 
 # List of animation character
-01.
+01. Takagi san from "Teasing Master Takagi-san"
 02.
 03.
 04.
