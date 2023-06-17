@@ -14,3 +14,4 @@ Please write your favorite animation character in the list below.
 4. Doraemon
 5. Deku
 6. nobita
+7. Rin Shibuya
