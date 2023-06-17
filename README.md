@@ -13,3 +13,4 @@ Please write your favorite animation character in the list below.
 3. Naruto
 4. Doraemon
 5. Deku
+6. nobita
