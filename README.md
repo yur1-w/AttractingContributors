@@ -14,7 +14,7 @@ Please write your favorite animation character in the list below.
 
 ・Naruto
 
-・
+・Doraemon
 
 ・
 
@@ -27,4 +27,5 @@ Please write your favorite animation character in the list below.
 ・
 
 ・
+
 
