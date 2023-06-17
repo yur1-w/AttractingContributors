@@ -16,7 +16,7 @@ Please write your favorite animation character in the list below.
 
 ・Doraemon
 
-・
+・Deku
 
 ・
 
