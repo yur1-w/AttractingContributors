@@ -9,14 +9,23 @@ Please write your favorite animation character in the list below.
 
 # List of animation character
 ・Takagi san from "Teasing Master Takagi-san"
+
 ・Jotaro Kujo
+
 ・Naruto
+
 ・Doraemon
+
 ・
+
 ・
+
 ・
+
 ・
+
 ・
+
 ・
 
 
