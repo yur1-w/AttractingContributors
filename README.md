@@ -1,19 +1,22 @@
-#Interest   : Games 
+# Who is your favorite animation character?
+訪問ありがとう。
 
+Thank you for coming.
 
-# List of Hobby
-Please tell me your favourite game 
-1. Valorant 
-2. Mobile Legends: Bang Bang
-3. Overwatch  
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+よければあなたの好きなアニメキャラクターを下のリストに書いていってください。
 
+Please write your favorite animation character in the list below.
+
+# List of animation character
+・Takagi san from "Teasing Master Takagi-san"
+・Jotaro Kujo
+・Naruto
+・Doraemon
+・
+・
+・
+・
+・
+・
 
 
