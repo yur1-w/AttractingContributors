@@ -8,13 +8,13 @@ Thank you for coming.
 Please write your favorite animation character in the list below.
 
 # List of animation character
-01. Jotaro Kujo
-02.
-03.
-04.
-05.
-06.
-07.
-08.
-09.
-10.
+・ Takagi san from "Teasing Master Takagi-san"
+・ Jotaro Kujo
+・
+・
+・
+・
+・
+・
+・
+・
