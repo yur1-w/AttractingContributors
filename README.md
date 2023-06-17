@@ -8,24 +8,8 @@ Thank you for coming.
 Please write your favorite animation character in the list below.
 
 # List of animation character
-・Takagi san from "Teasing Master Takagi-san"
-
-・Jotaro Kujo
-
-・Naruto
-
-・Doraemon
-
-・Deku
-
-・
-
-・
-
-・
-
-・
-
-・
-
-
+1. Takagi san from "Teasing Master Takagi-san"
+2. Jotaro Kujo
+3. Naruto
+4. Doraemon
+5. Deku
