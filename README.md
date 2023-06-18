@@ -7,6 +7,7 @@
 - 愛言葉Ⅲ - DECO*27
 - IDOL / YOASOBI
 - 国家「君が代」 - Japan
+- ドライフラワー　- 優里
 - Ievan Polkka - Finnish folk song
 - メトロ / プププランド
 - ガッツだぜ
