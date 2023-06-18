@@ -16,3 +16,4 @@ Please write your favorite animation character in the list below.
 6. nobita
 7. Rin Shibuya
 8. Zoro
+9. Shoyo Hinata
