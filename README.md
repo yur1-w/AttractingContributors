@@ -29,4 +29,5 @@ Recentlly I come to practice guiter, so please tell me your favorite musics.
 8. something w/o sunrise
 9. kill em with kindness
 10. Shots
-11. Lalala love song
+11. jyouyatou
+12. Lalala love song
