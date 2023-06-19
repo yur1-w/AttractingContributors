@@ -26,4 +26,4 @@ To complete the assignment, please do the following:
 - Fried Pork in Scoop (锅包肉)
 - Izumo Soba(出雲そば）
 - Somen (Japanese thin wheat noodles)
-
+- Pizza
