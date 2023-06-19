@@ -18,4 +18,8 @@ To complete the assignment, please do the following:
 
 
 # List of dishes
-1. Lotus root chips
+
+- Lotus root chips
+- Beef Rendang
+- Fried Pork in Scoop (锅包肉)
+
