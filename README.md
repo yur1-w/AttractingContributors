@@ -19,6 +19,7 @@ To complete the assignment, please do the following:
 
 # List of dishes
 
+- Dry noodles
 - Budae-Jjigae(Korean Army Stew)
 - Lotus root chips
 - Beef Rendang
