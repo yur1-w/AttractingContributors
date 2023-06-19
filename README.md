@@ -18,3 +18,4 @@ To complete the assignment, please do the following:
 
 
 # List of dishes
+1. Lotus root chips
