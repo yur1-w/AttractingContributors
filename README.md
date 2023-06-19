@@ -24,4 +24,5 @@ To complete the assignment, please do the following:
 - Lotus root chips
 - Beef Rendang
 - Fried Pork in Scoop (锅包肉)
+- Somen (Japanese thin wheat noodles)
 
