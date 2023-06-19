@@ -18,4 +18,6 @@ To complete the assignment, please do the following:
 
 
 # List of dishes
-Beef Rendang
+
+- Beef Rendang
+- Fried Pork in Scoop (锅包肉)
