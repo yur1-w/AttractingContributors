@@ -20,5 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
-- Airi Suzuki
+
+# List of Artist
+1. Walk the Moon
+2. Airi Suzuki
