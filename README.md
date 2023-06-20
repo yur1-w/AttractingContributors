@@ -1,5 +1,10 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+# What is your favorite music?
+please recommend your favorite music.
+genre, tytle, everything is OK.
+
+# List of music
+1. "kawaii future bass"
+2. "city pop"
 
 # Rules
 
@@ -19,5 +24,3 @@ To complete the assignment, please do the following:
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
