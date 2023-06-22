@@ -26,4 +26,4 @@ To complete the assignment, please do the following:
 - Fried Pork in Scoop (锅包肉)
 - Somen (Japanese thin wheat noodles)
 - persimmon-leaf sushi　（柿の葉寿司）
-
+- Pizza
