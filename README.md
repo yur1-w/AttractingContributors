@@ -21,6 +21,7 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 # List of Hobby
 1. Attack on Titan
 2. Demon Slayer
+3. A Silent Voice
 
 
 
