@@ -35,3 +35,5 @@ Please tell me your favorite music (band, video game, anything!).
 ・"don't stop me now" - Queen
 
 ・Imitation of Our History - Taishi
+
+・You Might Think - The Cars
