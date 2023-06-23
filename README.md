@@ -24,6 +24,7 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 3. A Silent Voice
 4. SPY FAMILY
 5. Detective Conan
+6. Fullmetal Alchemist
 
 
 
