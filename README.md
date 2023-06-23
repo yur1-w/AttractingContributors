@@ -39,3 +39,7 @@ Please tell me your favorite music (band, video game, anything!).
 
 ・原宿でいやほい（きゃりーぱみゅぱみゅ）
 
+・Imitation of Our History - Taishi
+
+・You Might Think - The Cars
+
