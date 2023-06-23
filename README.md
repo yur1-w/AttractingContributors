@@ -34,3 +34,8 @@ Please tell me your favorite music (band, video game, anything!).
 ・Wasurete Yaranai - Kessoku Band
 ・Last Surprise - Lyn
 
+・Imitation of Our History - Taishi
+
+
+・原宿でいやほい（きゃりーぱみゅぱみゅ）
+
