@@ -1,4 +1,4 @@
-# Tell Me Favorite Your
+# Tell Me Favorite Your Anime
 Please tell me your favorite Japanese Anime!!
 Do you know English name of "Sazae-san"??
 
