@@ -1,6 +1,6 @@
 # Tell Me Favorite Your Anime
 Please tell me your favorite Japanese Anime!!
-Do you know English name of "Sazae-san"??
+
 
 # Rules
 1. Please choose a hobby or some interest that you want to build your repository
@@ -20,15 +20,7 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 
 # List of Hobby
 1. Attack on Titan
-2. Jujutsu Kaisen
-3. Oshi no Ko
-4. Mobile Suit GUNDAM the Witch from Mercury
-5. Demon Slayer
-6. Hell's Paradise
-7. Golden Kamuy
-8. SPY FAMILY
-9. My Hero Academia
-10. The wonderful world of Sazae-san
+2. 
 
 
 
