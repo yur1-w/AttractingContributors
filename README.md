@@ -26,7 +26,7 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 5. Detective Conan
 6. Fullmetal Alchemist
 7. DokiDoki! PreCure
-
+８. Death Note
 
 
 
