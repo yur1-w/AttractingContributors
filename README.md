@@ -25,10 +25,10 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 4. SPY FAMILY
 5. Detective Conan
 6. Fullmetal Alchemist
-7. Assassination Class
-
-
-
+7. DokiDoki! PreCure
+８. Death Note
+９. Charlotte
+10. Assassination Class
 
 
 
