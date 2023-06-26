@@ -28,3 +28,4 @@ To complete the assignment, please do the following:
 - Somen (Japanese thin wheat noodles)
 - persimmon-leaf sushi　（柿の葉寿司）
 - Pizza
+- Chopped horse mackerel with miso (鯵のなめろう)
