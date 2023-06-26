@@ -30,4 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. DECO*27
 7. Ed Sheeran
 8. Eve
+9. Offical髭団dism
 
