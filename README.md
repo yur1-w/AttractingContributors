@@ -30,6 +30,7 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 ９. Charlotte
 10. Assassination Class
 11. Barakamon
+12. Dr.Stone
 
 
 
