@@ -24,7 +24,7 @@ To complete the assignment, please do the following:
 - Lotus root chips
 - Beef Rendang
 - Fried Pork in Scoop (锅包肉)
-- Isumo Soba (出雲そば）
+- Izumo Soba (出雲そば）
 - Somen (Japanese thin wheat noodles)
 - persimmon-leaf sushi　（柿の葉寿司）
 - Pizza
