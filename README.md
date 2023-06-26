@@ -12,3 +12,4 @@
 - メトロ / プププランド
 - ガッツだぜ
 - Lost - Linkin Park (The animation is AI Generated, So cool!)
+- ペンディングマシーン-Offical髭団dism
