@@ -29,5 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. IU
 6. DECO*27
 7. Ed Sheeran
-
+8. Eve
 
