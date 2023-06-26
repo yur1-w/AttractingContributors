@@ -27,5 +27,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Yamamoto Sayaka
 4. DISH//
 5. IU
-6. Eve
+6. DECO*27
+7. Ed Sheeran
+8. Eve
 
