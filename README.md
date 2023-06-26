@@ -13,3 +13,4 @@
 - ガッツだぜ
 - Lost - Linkin Park (The animation is AI Generated, So cool!)
 - Take On Me - a-ha
+- GO - BUMP OF CHICKEN
