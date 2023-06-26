@@ -25,4 +25,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Walk the Moon
 2. Airi Suzuki
 3. Yamamoto Sayaka
-4. IU
+4. DISH//
+5. IU
+
