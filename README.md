@@ -24,19 +24,29 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please tell me your favorite music (band, video game, anything!).
 
 ・mixed nuts(Offical髭団dism/Spyfamily)
+
 ・Back Door(Stray Kids)
+
 ・KICKBACK(Kenshi Yonezu  米津玄師)
+
 ・A Cruel Angel’s Thesis (Yoko Takahashi) 
+
 ・Since You Been Gone , Rainbow
+
 ・Your Eyes(Stray Kids)
+
 ・出町柳パラレルユニバース(ASIAN KUNG-FU GENERATION)
+
 ・"don't stop me now" - Queen
+
 ・Imitation of Our History - Taishi
 
 ・Purr - Kep1er
 
 - Humanoid(ZUTOMAYO)
+
 ・Wasurete Yaranai - Kessoku Band
+
 ・Last Surprise - Lyn
 
 ・Imitation of Our History - Taishi
@@ -51,4 +61,5 @@ Please tell me your favorite music (band, video game, anything!).
 ·Superhuman (NCT127)
 
 ・when johnny comes marching home
+
 ・Mabuta(Vaundy)
