@@ -29,9 +29,10 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 ８. Death Note
 ９. Charlotte
 10. Assassination Class
-11. The Dangers in My Heart
-12. Barakamon
-
+11. Barakamon
+12. Dr.Stone
+13. Higurashinonakukoroni
+14. The Dangers in My Heart
 
 
 
