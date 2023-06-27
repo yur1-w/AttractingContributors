@@ -63,3 +63,5 @@ Please tell me your favorite music (band, video game, anything!).
 ・when johnny comes marching home
 
 ・Mabuta(Vaundy)
+
+・君がいるから(THE SxPLAY)
