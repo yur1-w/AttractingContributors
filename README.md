@@ -32,4 +32,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. Eve
 9. Offical髭団dism
 10. Number Girl
+11. Vaundy
 
