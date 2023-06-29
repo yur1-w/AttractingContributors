@@ -51,7 +51,6 @@ Please tell me your favorite music (band, video game, anything!).
 
 ・Imitation of Our History - Taishi
 
-
 ・原宿でいやほい（きゃりーぱみゅぱみゅ）
 
 ・Imitation of Our History - Taishi
@@ -65,3 +64,8 @@ Please tell me your favorite music (band, video game, anything!).
 ・Mabuta(Vaundy)
 
 ・君がいるから(THE SxPLAY)
+
+・Keserasera (Mrs. GREEN APPLE)
+
+・可愛くてごめん (HoneyWorks)
+
