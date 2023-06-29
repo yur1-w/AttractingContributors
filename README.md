@@ -63,6 +63,8 @@ Please tell me your favorite music (band, video game, anything!).
 
 ・Mabuta(Vaundy)
 
+・君がいるから(THE SxPLAY)
+
 ・Keserasera (Mrs. GREEN APPLE)
 
 ・可愛くてごめん (HoneyWorks)
