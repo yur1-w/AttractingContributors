@@ -34,4 +34,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. Number Girl
 11. Vaundy
 12. YOASOBI
+13. BUMP OF CHICKEN
 
