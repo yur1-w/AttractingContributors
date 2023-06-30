@@ -18,4 +18,7 @@ Please write your favorite animation character in the list below.
 8. Zoro
 9. Shoyo Hinata
 10. Doraemon
-11. Eugeo(SAO)
+11. Levi Ackerman
+12. Tamakimari
+13. Eugeo(SAO)
+
