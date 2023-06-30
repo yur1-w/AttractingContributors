@@ -21,4 +21,5 @@ Please write your favorite animation character in the list below.
 11. Levi Ackerman
 12. Tamakimari
 13. Eugeo(SAO)
+14. Luffy
 
