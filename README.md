@@ -33,4 +33,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Offical髭団dism
 10. Number Girl
 11. Vaundy
+12. YOASOBI
 
