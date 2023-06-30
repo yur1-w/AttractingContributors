@@ -20,4 +20,5 @@ Please write your favorite animation character in the list below.
 10. Doraemon
 11. Levi Ackerman
 12. Tamakimari
+13. Eugeo(SAO)
 
