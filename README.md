@@ -19,3 +19,5 @@ Please write your favorite animation character in the list below.
 9. Shoyo Hinata
 10. Doraemon
 11. Levi Ackerman
+12. Tamakimari
+
