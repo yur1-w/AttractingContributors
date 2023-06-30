@@ -22,4 +22,5 @@ Please write your favorite animation character in the list below.
 12. Tamakimari
 13. Eugeo(SAO)
 14. Luffy
+15. Shima rin
 
