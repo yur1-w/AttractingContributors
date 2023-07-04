@@ -29,3 +29,4 @@ To complete the assignment, please do the following:
 - persimmon-leaf sushi　（柿の葉寿司）
 - Pizza
 - Chopped horse mackerel with miso (鯵のなめろう)
+- Negitoro
