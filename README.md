@@ -15,3 +15,4 @@
 - ペンディングマシーン-Offical髭団dism
 - Take On Me - a-ha
 - GO - BUMP OF CHICKEN
+- Aimer 「茜さす」
