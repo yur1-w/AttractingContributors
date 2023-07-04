@@ -1,4 +1,4 @@
-# What's your favorite food
+# What's your favorite food?
 
 # List
 1. pear
