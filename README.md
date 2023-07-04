@@ -35,3 +35,4 @@ Recentlly I come to practice guiter, so please tell me your favorite musics.
 14. Harajuku Iyahoi
 15. Beautiful World
 16. Don't stop me now - Queen
+17. 勘冴えて悔しいわ
